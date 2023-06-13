@@ -1,0 +1,40 @@
+[
+  {
+    "558582385190@s.whatsapp.net": {
+      "id": "558582385190@s.whatsapp.net",
+      "player": "558582385190@s.whatsapp.net",
+      "game": {
+        "currentStep": 0,
+        "region": "en",
+        "uri": "https://en.akinator.com",
+        "urlApiWs": "https://srv12.akinator.com:9455/ws",
+        "noUri": "Could not find the uri or UrlApiWs. This most likely means that you have not started the game!",
+        "noSession": "Could not find the game session. Please make sure you have started the game!",
+        "progress": 0,
+        "guessCount": 0,
+        "childMode": {
+          "childMod": false,
+          "softConstraint": "",
+          "questionFilter": ""
+        },
+        "question": "Does your character really exist?",
+        "answers": [
+          "Yes",
+          "No",
+          "Don't know",
+          "Probably",
+          "Probably not"
+        ],
+        "uriObj": {
+          "uid": "febfd342-e6a5-11ed-9dda-0cc47a691510",
+          "frontaddr": "MTQ3LjEzNS4xMjkuOTM="
+        },
+        "uid": "febfd342-e6a5-11ed-9dda-0cc47a691510",
+        "frontaddr": "MTQ3LjEzNS4xMjkuOTM=",
+        "session": "554",
+        "signature": "42966791",
+        "challenge_auth": "3f4ff4e7-71e5-45e4-8f5b-87051fca0628"
+      }
+    }
+  }
+]
